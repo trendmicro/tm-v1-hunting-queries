@@ -20,7 +20,7 @@ Read our [contributing guide](CONTRIBUTING.md) to learn about our development pr
 
 ### Status & bugs
 
-Currently Trend Vision One GitHub is under heavy development. If you wish to report bugs or request new features, you can use the [Github issues module](https://github.com/trendmicro/tm-v1/tm-v1-connectors/issues).
+Currently Trend Vision One GitHub is under heavy development. If you wish to report bugs or request new features, you can use the [Github issues module](https://github.com/trendmicro/tm-v1-hunting-queries/issues).
 
 ### Discussion
 
